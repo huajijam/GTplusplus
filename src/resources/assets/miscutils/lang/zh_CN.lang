@@ -2717,6 +2717,7 @@ item.GTPP.BattPack.08.name=充电工具包[UV]
 item.GTPP.BattPack.09.name=充电工具包[MAX]
 
 
+<<<<<<< HEAD
 //Added 13/3/19
 item.gtpp.debug.scanner.name=GT++排错扫描器
 item.RawWaste.name=动物粪便单元
@@ -2763,3 +2764,6 @@ item.itemPlateDoubleNylon.name=双重尼龙板
 item.itemCellNylon.name=尼龙单元
 tile.Block of Nylon.name=尼龙块
 //This zh_CN.lang is translation by huajijam for GregTech++ (18/3/19)
+=======
+//This zh_CN.lang is translation by huajijam for GregTech++ (5/2/19)
+>>>>>>> 2dfaff41c090f1c6a2d22d493967cf85d6e1766d
